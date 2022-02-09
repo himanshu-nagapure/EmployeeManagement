@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Lenovo\\Desktop\\jaxb-ri\\mod\\jakarta.activation.jar",
+            "c:\\Users\\Lenovo\\Desktop\\jaxb-ri\\mod\\jakarta.xml.bind-api.jar",
+            "c:\\Users\\Lenovo\\Desktop\\jaxb-ri\\mod\\jaxb-core.jar",
+            "c:\\Users\\Lenovo\\Desktop\\jaxb-ri\\mod\\jaxb-impl.jar",
+            "c:\\Users\\Lenovo\\Desktop\\jaxb-ri\\mod\\jaxb-jxc.jar",
+            "c:\\Users\\Lenovo\\Desktop\\jaxb-ri\\mod\\jaxb-xjc.jar",
+            "c:\\Users\\Lenovo\\Desktop\\mysql-connector-java-8.0.27\\mysql-connector-java-8.0.27.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Lenovo\\Downloads\\postgresql-42.3.2.jar"
+        ]
+    }
+}

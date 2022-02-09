@@ -1,0 +1,34 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<employees>
+	<employee>
+	    <employeeId>1</employeeId>
+	    <firstName>Luffy</firstName>
+		<lastName>Monkey</lastName>
+	    <email>mokey.luffy@gmail.com</email>
+		<baseSalary>1500000</baseSalary>
+	</employee>
+
+	<employee>
+	    <employeeId>2</employeeId>
+	    <firstName>Zoro</firstName>
+		<lastName>Roronoa</lastName>
+	    <email>roronoa.zoro@gmail.com</email>
+		<baseSalary>900000</baseSalary>
+	</employee>
+
+    <employee>
+	    <employeeId>3</employeeId>
+	    <firstName>Sanji</firstName>
+		<lastName>Vinsmoke</lastName>
+	    <email>sanji.vinsmoke@gmail.com</email>
+		<baseSalary>750000</baseSalary>
+	</employee>
+
+    <employee>
+	    <employeeId>4</employeeId>
+	    <firstName>Robin</firstName>
+		<lastName>Nico</lastName>
+	    <email>nico.robin@gmail.com</email>
+		<baseSalary>800000</baseSalary>
+	</employee>
+</employees>
